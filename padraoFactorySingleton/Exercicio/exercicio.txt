@@ -1,0 +1,10 @@
+
+
+Crie uma função instPlugPlay a qual poderá criar instancias de drivers plugAndPlay.
+
+O conjunto de drivers que poderão ser instanciados poderão variar de acordo com uma tabela dinâmica,
+que indica os drivers instalados.
+
+Um driver só pode ser instanciado uma unica vez.
+
+Obs.: Simule o ato de conexão de um componente na maquina na interface do usuário.

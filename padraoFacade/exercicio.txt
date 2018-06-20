@@ -1,0 +1,23 @@
+Exercicio
+
+Combine um arcade onde controle uma nave que possui um unico canhão.
+
+A Cada "power" que o jogador capturar, um novo armazenamento é incorporado.
+
+O poder de tiro da nave é incrementado de acordo com a tabela abaixo:
+
+
+                Poder de Tiro
+Canhão Básico |   1   |  3  |   5 |
+              |
+Canhão Laser  |   5   |  9  |  13 |
+              |
+Canhão Plasma |   10  |  20 |  30 |
+
+              |   1º  |  2º |  3º | <- Incorporações
+
+A nave comporta no maximo 3 armas de cada tipo e poder de tiro e
+incrementado a cada incorporação
+
+Visando o padrão decorator, gere o modelo e código que atende o problema
+exposto. Escolha implementação por arrays do seu gosto.

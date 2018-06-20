@@ -1,0 +1,27 @@
+    Exercicio
+
+    Escreva, Orientado a Objetos que permita a criação de um painel de configuração
+    de um sistema de perfuratriz.
+
+    ----------------------
+
+    O sistema terá os seguintes subsistemas
+
+    - Broca
+    - Motor
+    - Refrigerador
+    - Coletor
+
+    ----------------------
+
+    O uso do equipamento varia de acordo com o solo e obedece a seguinte tabela:
+
+       Solo   | Tipo de Broca | Empuxo do Motor | Rotação do motor | Potencia do Regrigerador | Coletor   |
+
+    Rodizio   |       A       |       10000     |     30 rpm       |          20000 V         | 1 Coletor |
+
+    Macio     |       B       |       7000      |     80 rpm       |          1000 V          | 3 Coletor |
+
+    Arenoso   |       B       |       4000      |     150 rpm      |          1200 V          | 5 Coletor |
+
+    Pantenoso |       C       |       3500      |    200 rpm       |          500 V           | 7 Coletor e 3 bombas|

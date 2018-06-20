@@ -1,0 +1,7 @@
+Estude os slides do arquivo PADRÕES DE PROJETO - COMMAND.
+
+Entenda o uso do padrão e sua aplicação.
+
+Depois estude o slide PADRÕES DE PROJETO - COMMAND IMPLEMENTAÇÃO.
+
+Faça as atividades especificadas no primeiro arquivo.

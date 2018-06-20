@@ -1,0 +1,19 @@
+
+
+    Combine um arcade onde você controle uma nave que possui um unico canhão.
+
+    A Cada "POWER" que o jogador capturar, um novo armamento é incorporado.
+
+    O poder de tiro da nave é incrementado de acordo com a tabela abaixo:
+
+
+                        Poder de Tiro
+
+    Canhão básico       1   | 3   | 5           A Nave comporta no Maximo
+    Canhão Laser        5   | 9   | 13          3 armas de cada tipo, e o porder
+    Canhão Plasma       10  | 20  | 30          de tiro é incrementado a cada
+                                                incorporação.
+    Incorporação        1ª  | 2ª  | 3ª
+
+    Visando o padrão Decorator, gere o modelo e código que atende o problema exposto.
+    Escolha implementação por ArrayList ao seu gosto.
